@@ -6,6 +6,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Tutorial](#tutorial)
+- [Troubleshooting](#troubleshooting)
 - [Release History](#release-history)
 - [Acknowledgements](#acknowledgements)
 
@@ -24,7 +25,7 @@ except: #(i.e. If failed)
 ```
 ![Main_workflow.png](https://i.loli.net/2020/04/24/uhw6rTJCDQ1kNXO.png)
 
-Crawling process shown by the console:
+Crawling process shown by the console (when you successfully run this program):
 ![articles_citingArticles.png](https://i.loli.net/2020/04/24/f3ckbvrABJdF1o6.png)
 
 ## Installation
@@ -103,6 +104,14 @@ Output: one folder, named citingArticles, including .ris files will appear.
 
 6. If neccesary (after you crawled .ris files), you can run merge_ris.py to merge all .ris files in the articles/citingArticles folder into one .ris file.
 
+
+## Troubleshooting
+
+1. You may see the following tips when you failed to log in (perhaps due to wrong information of logging in, low speed of your network, or low time limits):
+![FailedToLogIn.png](https://i.loli.net/2020/04/24/AFy7hcVSwgTut2R.png)
+
+2. You may see the following tips when you triggered the TryAgain (perhaps due to low speed of your network, or low time limits):
+![TryAgain_console.png](https://i.loli.net/2020/04/24/nx6FtypzXM2dk83.png)
 
 ## Release History
 
