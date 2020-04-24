@@ -111,5 +111,6 @@ Output: one folder, named citingArticles, including .ris files will appear.
     * Create: settings.py, advanced_query_articles.py, advanced_query_citingArticles.py, and merge_ris.py
 
 ## Acknowledgements
-Thanks for inspiration from @tomleung1996 (https://github.com/tomleung1996/wos_crawler)
+* Thanks for inspiration for the crawler from [@tomleung1996](https://github.com/tomleung1996/wos_crawler). 
+* Thanks for a tool from [GitHub Wiki TOC generator](https://ecotrust-canada.github.io/markdown-toc/). 
 
