@@ -5,7 +5,7 @@
 - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
 - [Installation](#installation)
-- [Usage example](#usage-example)
+- [Tutorial](#tutorial)
 - [Release History](#release-history)
 - [Acknowledgements](#acknowledgements)
 
